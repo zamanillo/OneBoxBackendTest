@@ -30,18 +30,22 @@ http://localhost:9006/backendTest/api/v1/cart
     "amount":4
 }
 
+
 Un PUT para poder añadir productos al carrito. De la misma manera se añaden con un RequestBody y con un PathVariable para seleccionar el carrito. En caso de existir el objeto en el carrito se incrementa la cantidad.
 
 http://localhost:9006/backendTest/api/v1/cart/2
+
 {
     "id":1,
     "description":"lapiz",
     "amount":2
 }
 
+
 Un GET para obtener los datos del carrito (id y productos) 
 
 http://localhost:9006/backendTest/api/v1/cart/0
+
 
 Un DELETE para eliminar el carrito, PathVariable para designar el carrito a eliminar. 
 
