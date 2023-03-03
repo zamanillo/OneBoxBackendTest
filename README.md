@@ -50,7 +50,9 @@ http://localhost:9006/backendTest/api/v1/cart/1
 
 # Pruebas con Postman
 
-Un ejemplo de las pruebas realizadas con  Postman
+Un ejemplo de las pruebas realizadas con  Postman:
+
+
 ![image](https://user-images.githubusercontent.com/123003363/222769909-5fc7b166-7359-4813-b0fc-e12a93efbfc2.png)
 
 
