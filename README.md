@@ -57,5 +57,7 @@ Un ejemplo de las pruebas realizadas con  Postman
 # Posibles mejoras
 
 No me ha dado tiempo ha realizar los test unitarios con JUnit.
+
 He tenido problemas a la hora de configurar Swagger para documentar los endpoints.
+
 Utilizar H2 ya que reside en memoria y siempre es mejor que una simple lista estatica.
